@@ -1,0 +1,893 @@
+{
+  "version": "3.0.0",
+  "engine": "System Chromium / Playwright, inline standalone HTML, emulated viewports",
+  "passed": 220,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "Add project fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 320\u00d7568",
+      "passed": true
+    },
+    {
+      "name": "Add project fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 360\u00d7800",
+      "passed": true
+    },
+    {
+      "name": "Add project fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 390\u00d7844",
+      "passed": true
+    },
+    {
+      "name": "Add project fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 430\u00d7932",
+      "passed": true
+    },
+    {
+      "name": "Add project fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 600\u00d7900",
+      "passed": true
+    },
+    {
+      "name": "Add project fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 768\u00d71024",
+      "passed": true
+    },
+    {
+      "name": "Add project fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 1024\u00d7768",
+      "passed": true
+    },
+    {
+      "name": "Add project fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 1440\u00d71000",
+      "passed": true
+    },
+    {
+      "name": "Add project fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 844\u00d7390",
+      "passed": true
+    },
+    {
+      "name": "Add project fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Edit project fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Edit supervisor fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Photo preview fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Owner photo edit fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Caption change request fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Approval confirmation fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Regenerate confirmation fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Delete report confirmation fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Supervisor access confirmation fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Protected supervisor deletion fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Upload photos fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Upload captions fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo edit fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Long dialog title fits 390\u00d7380",
+      "passed": true
+    },
+    {
+      "name": "Supervisor only sees assigned projects",
+      "passed": true
+    },
+    {
+      "name": "Supervisor photo visibility excludes other supervisors",
+      "passed": true
+    },
+    {
+      "name": "Upload has no site-note field or automatic AI checkbox",
+      "passed": true
+    },
+    {
+      "name": "Each selected photo has one Caption input",
+      "passed": true
+    },
+    {
+      "name": "Adding photos retains entered captions",
+      "passed": true
+    },
+    {
+      "name": "Removing another photo retains entered caption",
+      "passed": true
+    },
+    {
+      "name": "Supervisor caption is saved verbatim without AI replacement",
+      "passed": true
+    },
+    {
+      "name": "Blank caption is saved as empty and queued",
+      "passed": true
+    },
+    {
+      "name": "New photos have no separate note property",
+      "passed": true
+    },
+    {
+      "name": "Uploaded-photo card shows full project name",
+      "passed": true
+    },
+    {
+      "name": "Uploaded-photo card shows saved caption",
+      "passed": true
+    },
+    {
+      "name": "Uploaded-photo card exposes Edit",
+      "passed": true
+    },
+    {
+      "name": "Photo editor preloads the caption",
+      "passed": true
+    },
+    {
+      "name": "Photo editor project choices are assigned projects only",
+      "passed": true
+    },
+    {
+      "name": "Photo editor only contains the Caption text area",
+      "passed": true
+    },
+    {
+      "name": "Supervisor cannot save to an unassigned project",
+      "passed": true
+    },
+    {
+      "name": "Photo project, stage and caption can be edited",
+      "passed": true
+    },
+    {
+      "name": "Project label updates after edit",
+      "passed": true
+    },
+    {
+      "name": "Supervisor cannot edit another supervisor photo",
+      "passed": true
+    },
+    {
+      "name": "Owner sees supervisor caption directly",
+      "passed": true
+    },
+    {
+      "name": "Owner blank field has no placeholder caption",
+      "passed": true
+    },
+    {
+      "name": "Owner review has no Site note labels",
+      "passed": true
+    },
+    {
+      "name": "Empty caption cannot be approved",
+      "passed": true
+    },
+    {
+      "name": "Owner explicitly generates an empty caption",
+      "passed": true
+    },
+    {
+      "name": "Generating another photo leaves the manual caption unchanged",
+      "passed": true
+    },
+    {
+      "name": "Owner can approve supervisor-entered caption",
+      "passed": true
+    },
+    {
+      "name": "Saving an unchanged photo retains approval",
+      "passed": true
+    },
+    {
+      "name": "Supervisor edits invalidate prior owner approval",
+      "passed": true
+    },
+    {
+      "name": "Clarification opens the single Caption editor",
+      "passed": true
+    },
+    {
+      "name": "Caption resubmission preserves supervisor wording",
+      "passed": true
+    },
+    {
+      "name": "Resubmission returns to owner review and resolves prompt",
+      "passed": true
+    },
+    {
+      "name": "Cleared owner caption stays truly blank and queued",
+      "passed": true
+    },
+    {
+      "name": "Generate missing is available after clearing",
+      "passed": true
+    },
+    {
+      "name": "Inline generate button reflects an empty caption",
+      "passed": true
+    },
+    {
+      "name": "Photo preview leaves missing caption empty",
+      "passed": true
+    },
+    {
+      "name": "Preview updates after owner generates a caption",
+      "passed": true
+    },
+    {
+      "name": "Approved report snapshot uses the supervisor caption",
+      "passed": true
+    },
+    {
+      "name": "Photo edits do not alter an existing report snapshot",
+      "passed": true
+    },
+    {
+      "name": "Edited photo is excluded until reapproved",
+      "passed": true
+    },
+    {
+      "name": "Browser Back closes the popup before leaving the page",
+      "passed": true
+    },
+    {
+      "name": "Browser Forward does not reopen stale forms",
+      "passed": true
+    },
+    {
+      "name": "Weekly prompt reveals day-of-week field",
+      "passed": true
+    },
+    {
+      "name": "Add project still saves timeline, caption scope and supervisors",
+      "passed": true
+    },
+    {
+      "name": "Add supervisor form still works",
+      "passed": true
+    },
+    {
+      "name": "Schema migration retains projects/photos/supervisors",
+      "passed": true
+    },
+    {
+      "name": "Migration preserves a pre-existing caption",
+      "passed": true
+    },
+    {
+      "name": "Migration preserves explicitly empty owner captions",
+      "passed": true
+    },
+    {
+      "name": "Old separate note is archived, not rendered as a second field",
+      "passed": true
+    },
+    {
+      "name": "Migration leaves saved reports unchanged",
+      "passed": true
+    },
+    {
+      "name": "No uncaught JavaScript errors",
+      "passed": true
+    }
+  ],
+  "pageErrors": [],
+  "limitations": [
+    "Physical PWA installation, actual on-screen keyboards, camera capture and OS-native Back gestures were not tested.",
+    "Inline test pages have an opaque origin; browser-storage persistence and hosted service-worker activation were not verified by this run."
+  ]
+}
